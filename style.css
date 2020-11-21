@@ -149,10 +149,18 @@ img.logoimage{
 .form-horizontal.myform{
     text-decoration: none;
 }
-select#pickup.custom.form-control{
+select#pickup.form-control{
     -webkit-appearance: none;
 
-    }
-    footer.page-footer.font-small.mdb-color.lighten-3.pt-4{
+}
+select#drop.form-control{
+    -webkit-appearance: none;
+
+}
+select#cab_type.form-control{
+    -webkit-appearance: none;
+
+}
+footer.page-footer.font-small.mdb-color.lighten-3.pt-4{
         background-color: lemonchiffon;
     }
